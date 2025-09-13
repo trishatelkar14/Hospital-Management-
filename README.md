@@ -1,5 +1,4 @@
-# Hospital-Management-
-A comprehensive Django-based Hospital Management System designed to efficiently manage doctors, patients, appointments, and medical reports with a clean and user-friendly interface.
+
 # 🏥 Hospital Management System
 
 A Django-based web application designed to help hospitals manage doctors, patients, appointments, and medical reports in a simple and efficient way.
